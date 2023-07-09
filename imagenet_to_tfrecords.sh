@@ -1,3 +1,6 @@
+# source: https://github.com/IntelAI/models/tree/master/datasets/imagenet
+# ./imagenet_to_tfrecords.sh <IMAGENET DIR>
+
 #!/usr/bin/env bash
 #
 # Copyright (c) 2020 Intel Corporation
